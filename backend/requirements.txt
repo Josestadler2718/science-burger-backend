@@ -1,18 +1,18 @@
-# ------------------------------------------------------------
-# Science Burger Tech — Backend (Python)
-# ------------------------------------------------------------
-# This file is a placeholder for when the backend is actually
-# implemented. Nothing here is installed or required by the
-# current front-end-only stage of the project.
-#
-# Suggested starting point once backend work begins:
-# ------------------------------------------------------------
+------------------------------------------------------------
+Science Burger Tech — Backend (Python)
+------------------------------------------------------------
+This file is a placeholder for when the backend is actually
+implemented. Nothing here is installed or required by the
+current front-end-only stage of the project.
 
-# fastapi
-# uvicorn[standard]
-# pydantic
-# sqlalchemy
-# alembic
-# python-dotenv
-# pytest
-# httpx
+Suggested starting point once backend work begins:
+------------------------------------------------------------
+
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+alembic
+python-dotenv
+pytest
+httpx
